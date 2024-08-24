@@ -9,7 +9,7 @@ Objective:
 
 Data:
 
-- The provided data is a synthetic Raman spectrum stored in a CSV file named raman_spectrum.csv, constructed from Gaussian peaks representing individual constituent elements, and includes various sources of noise to simulate real-world conditions.
+- The provided data is a synthetic Raman spectrum stored in a CSV file, constructed from Gaussian peaks representing individual constituent elements, and includes various sources of noise to simulate real-world conditions.
 
 Tools and Resources:
 
